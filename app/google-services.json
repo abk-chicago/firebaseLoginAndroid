@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "951654170887",
+    "firebase_url": "https://martyscodelab.firebaseio.com",
+    "project_id": "martyscodelab",
+    "storage_bucket": "martyscodelab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:951654170887:android:36eb115cdedc5fa3",
+        "android_client_info": {
+          "package_name": "com.pillarsoft.firebaselogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "951654170887-3sb1500vr0vuq9mfeb6gr014io1p3rcg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pillarsoft.firebaselogin",
+            "certificate_hash": "A7CEE71B97AF451B929B530386FF7FCE35E6172E"
+          }
+        },
+        {
+          "client_id": "951654170887-8fuut2bvn2ed3brsmphbg8acapca8961.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pillarsoft.firebaselogin",
+            "certificate_hash": "57D3BA9A579F478D02A9CB800A7AC0467AC341AF"
+          }
+        },
+        {
+          "client_id": "951654170887-ssk2eia0pchnohv9d05287d8l7bfc97q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAygQodhc6-h2u-zDg71k2urh-2YELs3cE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "951654170887-ssk2eia0pchnohv9d05287d8l7bfc97q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
